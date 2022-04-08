@@ -8,8 +8,8 @@ This repo contains the supported code and configuration files to reproduce seman
 
 | Backbone | Method | Crop Size | Lr Schd | mIoU (ms+flip) | #params | FLOPs | config | model |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| AS-MLP-T | UPerNet | 512x512 | 160K | 46.5 | 60M | 937G | [config](configs/asmlp/upernet_asmlp_tiny_patch4_shift5_512x512_160k_ade20k.py) |  |
-| AS-MLP-S | UperNet | 512x512 | 160K| 49.2 | 81M | 1024G | [config](configs/asmlp/upernet_asmlp_small_patch4_shift5_512x512_160k_ade20k.py) |  |
+| AS-MLP-T | UPerNet | 512x512 | 160K | 46.5 | 60M | 937G | [config](configs/asmlp/upernet_asmlp_tiny_patch4_shift5_512x512_160k_ade20k.py) |  
+| AS-MLP-S | UperNet | 512x512 | 160K| 49.2 | 81M | 1024G | [config](configs/asmlp/upernet_asmlp_small_patch4_shift5_512x512_160k_ade20k.py) |  
 | AS-MLP-B | UperNet | 512x512 | 160K | 49.5 | 121M | 1166G | [config](configs/asmlp/upernet_asmlp_base_patch4_shift5_512x512_160k_ade20k.py) | [onedrive](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/liandz_shanghaitech_edu_cn/Eee6yxLZ27hAkk3yVAD6UtsB189avw7EFHN0cy59L9LOeA?e=Zc1ro0) |
 
 **Notes**: 
